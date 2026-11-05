@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-prospecting-agent-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-prospecting-agent",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-prospecting-agent-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/prospecting-agent.md",
+  "presentationPlan": "projects/crm/nextjs/prospecting-agent.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
